@@ -86,5 +86,3 @@ B.Tech – Computer Science Engineering
 Email: pittaabhilash273@gmail.com
 LinkedIn: https://www.linkedin.com/in/abhilash-pitta-164709204
 
-yaml
-Copy code
